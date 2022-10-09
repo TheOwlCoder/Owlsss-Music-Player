@@ -17,4 +17,10 @@ div.thumbimg {
 .infotext {
     font-size: 20px;
     padding-left: 20px;
+    font-family: font;
   }
+
+@font-face {
+    font-family: font;
+    src: url(CodeNext-Trial-Black.ttf);
+ }
