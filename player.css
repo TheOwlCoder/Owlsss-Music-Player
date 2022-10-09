@@ -2,7 +2,19 @@ div.audplayer {
     padding-top: 50px;
 }
 
-div.thumb {
+div.thumbimg {
     padding-right: 220;
     padding-top: 50px;
+    flex-basis: 40%
 }
+
+.infocontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+
+.infotext {
+    font-size: 20px;
+    padding-left: 20px;
+  }
