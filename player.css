@@ -3,8 +3,9 @@ div.audplayer {
 }
 
 div.thumbimg {
+    padding-right: 220;
     padding-top: 50px;
-    flex-basis: 40%
+
 }
 
 .infocontainer {
@@ -15,7 +16,7 @@ div.thumbimg {
 
 .infotext {
     font-size: 20px;
-
+    padding-left: 20px;
     font-family: font;
   }
 
