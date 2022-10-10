@@ -7,16 +7,9 @@ div.thumbimg {
     padding-top: 50px;
     max-width: 100%
 }
-
-.infocontainer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
 .infotext {
-    font-size: 20px;
-    font-family: font;
+  padding-top: 10px;
+  font-family: font;
   }
 
 @font-face {
