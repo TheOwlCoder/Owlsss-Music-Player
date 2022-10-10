@@ -9,7 +9,8 @@ div.thumbimg {
 }
 
 .infocontainer {
-    display: flex;
+    display: flexbox;
+    align-items: center;
     justify-content: center;
   }
 
