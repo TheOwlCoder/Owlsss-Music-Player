@@ -9,14 +9,13 @@ div.thumbimg {
 }
 
 .infocontainer {
-    display: flexbox;
+    display: contents;
     align-items: center;
     justify-content: center;
   }
 
 .infotext {
     font-size: 20px;
-    padding-right: 0px;
     font-family: font;
   }
 
